@@ -1,0 +1,216 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Docker\\DevendraNagpDocker2024\\DevendraNagpDocker2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76E2E2AD-41F4-4AAA-8632-36C1D6444BEC}|DevendraNagpDocker2024.csproj|d:\\docker\\devendranagpdocker2024\\devendranagpdocker2024\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{76E2E2AD-41F4-4AAA-8632-36C1D6444BEC}|DevendraNagpDocker2024.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E2E2AD-41F4-4AAA-8632-36C1D6444BEC}|DevendraNagpDocker2024.csproj|d:\\docker\\devendranagpdocker2024\\devendranagpdocker2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E2E2AD-41F4-4AAA-8632-36C1D6444BEC}|DevendraNagpDocker2024.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E2E2AD-41F4-4AAA-8632-36C1D6444BEC}|DevendraNagpDocker2024.csproj|d:\\docker\\devendranagpdocker2024\\devendranagpdocker2024\\k8s\\services\\api-service.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{76E2E2AD-41F4-4AAA-8632-36C1D6444BEC}|DevendraNagpDocker2024.csproj|solutionrelative:k8s\\services\\api-service.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E2E2AD-41F4-4AAA-8632-36C1D6444BEC}|DevendraNagpDocker2024.csproj|d:\\docker\\devendranagpdocker2024\\devendranagpdocker2024\\k8s\\api\\api-deployment.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{76E2E2AD-41F4-4AAA-8632-36C1D6444BEC}|DevendraNagpDocker2024.csproj|solutionrelative:k8s\\api\\api-deployment.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E2E2AD-41F4-4AAA-8632-36C1D6444BEC}|DevendraNagpDocker2024.csproj|d:\\docker\\devendranagpdocker2024\\devendranagpdocker2024\\k8s\\api\\api-hpa.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{76E2E2AD-41F4-4AAA-8632-36C1D6444BEC}|DevendraNagpDocker2024.csproj|solutionrelative:k8s\\api\\api-hpa.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E2E2AD-41F4-4AAA-8632-36C1D6444BEC}|DevendraNagpDocker2024.csproj|d:\\docker\\devendranagpdocker2024\\devendranagpdocker2024\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{76E2E2AD-41F4-4AAA-8632-36C1D6444BEC}|DevendraNagpDocker2024.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E2E2AD-41F4-4AAA-8632-36C1D6444BEC}|DevendraNagpDocker2024.csproj|d:\\docker\\devendranagpdocker2024\\devendranagpdocker2024\\k8s\\configmaps\\api-config.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{76E2E2AD-41F4-4AAA-8632-36C1D6444BEC}|DevendraNagpDocker2024.csproj|solutionrelative:k8s\\configmaps\\api-config.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E2E2AD-41F4-4AAA-8632-36C1D6444BEC}|DevendraNagpDocker2024.csproj|d:\\docker\\devendranagpdocker2024\\devendranagpdocker2024\\k8s\\services\\db-service.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{76E2E2AD-41F4-4AAA-8632-36C1D6444BEC}|DevendraNagpDocker2024.csproj|solutionrelative:k8s\\services\\db-service.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E2E2AD-41F4-4AAA-8632-36C1D6444BEC}|DevendraNagpDocker2024.csproj|d:\\docker\\devendranagpdocker2024\\devendranagpdocker2024\\k8s\\database\\mssql-statefulset.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{76E2E2AD-41F4-4AAA-8632-36C1D6444BEC}|DevendraNagpDocker2024.csproj|solutionrelative:k8s\\database\\mssql-statefulset.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E2E2AD-41F4-4AAA-8632-36C1D6444BEC}|DevendraNagpDocker2024.csproj|d:\\docker\\devendranagpdocker2024\\devendranagpdocker2024\\k8s\\secrets\\api-secrets.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{76E2E2AD-41F4-4AAA-8632-36C1D6444BEC}|DevendraNagpDocker2024.csproj|solutionrelative:k8s\\secrets\\api-secrets.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E2E2AD-41F4-4AAA-8632-36C1D6444BEC}|DevendraNagpDocker2024.csproj|d:\\docker\\devendranagpdocker2024\\devendranagpdocker2024\\k8s\\secrets\\db-secrets.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{76E2E2AD-41F4-4AAA-8632-36C1D6444BEC}|DevendraNagpDocker2024.csproj|solutionrelative:k8s\\secrets\\db-secrets.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E2E2AD-41F4-4AAA-8632-36C1D6444BEC}|DevendraNagpDocker2024.csproj|d:\\docker\\devendranagpdocker2024\\devendranagpdocker2024\\k8s\\configmaps\\db-config.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{76E2E2AD-41F4-4AAA-8632-36C1D6444BEC}|DevendraNagpDocker2024.csproj|solutionrelative:k8s\\configmaps\\db-config.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Docker\\DevendraNagpDocker2024\\DevendraNagpDocker2024\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Docker\\DevendraNagpDocker2024\\DevendraNagpDocker2024\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T07:23:11.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "api-deployment.yaml",
+              "DocumentMoniker": "D:\\Docker\\DevendraNagpDocker2024\\DevendraNagpDocker2024\\k8s\\api\\api-deployment.yaml",
+              "RelativeDocumentMoniker": "k8s\\api\\api-deployment.yaml",
+              "ToolTip": "D:\\Docker\\DevendraNagpDocker2024\\DevendraNagpDocker2024\\k8s\\api\\api-deployment.yaml",
+              "RelativeToolTip": "k8s\\api\\api-deployment.yaml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-06-01T20:59:11.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "api-service.yaml",
+              "DocumentMoniker": "D:\\Docker\\DevendraNagpDocker2024\\DevendraNagpDocker2024\\k8s\\services\\api-service.yaml",
+              "RelativeDocumentMoniker": "k8s\\services\\api-service.yaml",
+              "ToolTip": "D:\\Docker\\DevendraNagpDocker2024\\DevendraNagpDocker2024\\k8s\\services\\api-service.yaml",
+              "RelativeToolTip": "k8s\\services\\api-service.yaml",
+              "ViewState": "AQIAAAUAAAAAAAAAAADwvwcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-06-01T21:00:09.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "mssql-statefulset.yaml",
+              "DocumentMoniker": "D:\\Docker\\DevendraNagpDocker2024\\DevendraNagpDocker2024\\k8s\\database\\mssql-statefulset.yaml",
+              "RelativeDocumentMoniker": "k8s\\database\\mssql-statefulset.yaml",
+              "ToolTip": "D:\\Docker\\DevendraNagpDocker2024\\DevendraNagpDocker2024\\k8s\\database\\mssql-statefulset.yaml",
+              "RelativeToolTip": "k8s\\database\\mssql-statefulset.yaml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAB8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-06-01T20:58:28.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Docker\\DevendraNagpDocker2024\\DevendraNagpDocker2024\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Docker\\DevendraNagpDocker2024\\DevendraNagpDocker2024\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAuwAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-01T21:22:20.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "api-hpa.yaml",
+              "DocumentMoniker": "D:\\Docker\\DevendraNagpDocker2024\\DevendraNagpDocker2024\\k8s\\api\\api-hpa.yaml",
+              "RelativeDocumentMoniker": "k8s\\api\\api-hpa.yaml",
+              "ToolTip": "D:\\Docker\\DevendraNagpDocker2024\\DevendraNagpDocker2024\\k8s\\api\\api-hpa.yaml",
+              "RelativeToolTip": "k8s\\api\\api-hpa.yaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-06-01T20:59:25.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Docker\\DevendraNagpDocker2024\\DevendraNagpDocker2024\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\Docker\\DevendraNagpDocker2024\\DevendraNagpDocker2024\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAwwAoAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-02T07:07:28.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "api-secrets.yaml",
+              "DocumentMoniker": "D:\\Docker\\DevendraNagpDocker2024\\DevendraNagpDocker2024\\k8s\\secrets\\api-secrets.yaml",
+              "RelativeDocumentMoniker": "k8s\\secrets\\api-secrets.yaml",
+              "ToolTip": "D:\\Docker\\DevendraNagpDocker2024\\DevendraNagpDocker2024\\k8s\\secrets\\api-secrets.yaml",
+              "RelativeToolTip": "k8s\\secrets\\api-secrets.yaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-06-01T20:58:00.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "api-config.yaml",
+              "DocumentMoniker": "D:\\Docker\\DevendraNagpDocker2024\\DevendraNagpDocker2024\\k8s\\configmaps\\api-config.yaml",
+              "RelativeDocumentMoniker": "k8s\\configmaps\\api-config.yaml",
+              "ToolTip": "D:\\Docker\\DevendraNagpDocker2024\\DevendraNagpDocker2024\\k8s\\configmaps\\api-config.yaml",
+              "RelativeToolTip": "k8s\\configmaps\\api-config.yaml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-06-01T20:57:03.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "db-service.yaml",
+              "DocumentMoniker": "D:\\Docker\\DevendraNagpDocker2024\\DevendraNagpDocker2024\\k8s\\services\\db-service.yaml",
+              "RelativeDocumentMoniker": "k8s\\services\\db-service.yaml",
+              "ToolTip": "D:\\Docker\\DevendraNagpDocker2024\\DevendraNagpDocker2024\\k8s\\services\\db-service.yaml",
+              "RelativeToolTip": "k8s\\services\\db-service.yaml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-06-01T20:59:55.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "db-secrets.yaml",
+              "DocumentMoniker": "D:\\Docker\\DevendraNagpDocker2024\\DevendraNagpDocker2024\\k8s\\secrets\\db-secrets.yaml",
+              "RelativeDocumentMoniker": "k8s\\secrets\\db-secrets.yaml",
+              "ToolTip": "D:\\Docker\\DevendraNagpDocker2024\\DevendraNagpDocker2024\\k8s\\secrets\\db-secrets.yaml",
+              "RelativeToolTip": "k8s\\secrets\\db-secrets.yaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-06-01T20:57:47.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "db-config.yaml",
+              "DocumentMoniker": "D:\\Docker\\DevendraNagpDocker2024\\DevendraNagpDocker2024\\k8s\\configmaps\\db-config.yaml",
+              "RelativeDocumentMoniker": "k8s\\configmaps\\db-config.yaml",
+              "ToolTip": "D:\\Docker\\DevendraNagpDocker2024\\DevendraNagpDocker2024\\k8s\\configmaps\\db-config.yaml",
+              "RelativeToolTip": "k8s\\configmaps\\db-config.yaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-06-01T20:56:41.974Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

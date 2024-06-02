@@ -1,0 +1,48 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: devendranagpdocker2024-api-deployment
+  labels:
+    app: devendranagpdocker2024-api
+spec:
+  replicas: 3  # Number of replicas
+  selector:
+    matchLabels:
+      app: devendranagpdocker2024-api
+  template:
+    metadata:
+      labels:
+        app: devendranagpdocker2024-api
+    spec:
+      containers:
+      - name: devendranagpdocker2024-api-container
+        image: 098765432112/devendranagpdocker2024:latest  # Replace with your Docker image
+        ports:
+        - containerPort: 80  # Adjust based on the port your application listens on
+        env:
+        - name: ASPNETCORE_ENVIRONMENT
+          value: "Production"
+        - name: ConnectionStrings__DefaultConnection
+          valueFrom:
+            configMapKeyRef:
+              name: api-config
+              key: db-connection-string
+        - name: DB_USER
+          valueFrom:
+            secretKeyRef:
+              name: db-secrets
+              key: DB_USER
+        - name: DB_PASSWORD
+          valueFrom:
+            secretKeyRef:
+              name: db-secrets
+              key: DB_PASSWORD
+        volumeMounts:
+        - name: config-volume
+          mountPath: /app/config  # Path inside the container where ConfigMap will be mounted
+      volumes:
+      - name: config-volume
+        configMap:
+          name: api-config  # Name of the ConfigMap
+      imagePullSecrets:
+      - name: myregistrykey

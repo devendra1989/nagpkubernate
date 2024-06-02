@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DevendraNagpDocker2024.props" />
+</Project>
